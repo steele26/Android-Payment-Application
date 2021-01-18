@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginSuccessActivity"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:id="@+id/LL"
+        android:layout_width="match_parent"
+        android:layout_height="127dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="0dp"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/manage"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:background="@drawable/transparent_bg_bordered_button"
+            android:text="Manage Card Details" />
+
+        <Button
+            android:id="@+id/Tap"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:background="@drawable/transparent_bg_bordered_button"
+            android:text="Tap to Pay" />
+    </LinearLayout>
+
+</RelativeLayout>

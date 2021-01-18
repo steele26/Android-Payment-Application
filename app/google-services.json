@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218495002488",
+    "firebase_url": "https://tapme-9b459.firebaseio.com",
+    "project_id": "tapme-9b459",
+    "storage_bucket": "tapme-9b459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218495002488:android:b11e90cdcd2d740211ca8d",
+        "android_client_info": {
+          "package_name": "com.design.steelenaidoo.receivenfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218495002488-h2285mjpvdv4f52oe2uo1kuvu1tbps0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZpLHW6OCdgd02dPiGPMcU-X76Xk02iAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218495002488-h2285mjpvdv4f52oe2uo1kuvu1tbps0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

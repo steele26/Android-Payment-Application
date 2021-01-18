@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TapMe</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">d0V5wDaoIuXf9eSAvoqWVFA8UT6AsqOo6KhAYo9h</string>
+    <string name="back4app_client_key">TkWFD8DuWzJo5hMeA6rvr5IFSg6RANQyhYtBu6R7</string>
+    <string name="paymentGroup">TapMe Payment Service</string>
+    <string name="PPSE">PPSE</string>
+    <string name="Visa">Visa</string>
+    <string name="APiKey">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 </string>
+</resources>
